@@ -1,0 +1,182 @@
+.logo
+{
+	float: left;
+	position: relative;
+	margin-left: 30px;
+}
+
+.titol
+{
+	position: relative;
+	float: top left;
+	font-family: times;
+	font-size: 16pt;
+	text-align: center;
+}
+
+.buscador
+{
+	float: left;
+	position: relative;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+header
+{
+	background-color: lightblue;
+	height: 200px;
+	min-width: 70%;
+	margin:0px !important;
+}
+
+.identificador
+{
+	position: absolute;
+	float: right;
+	height: 50px;
+	margin-left: 1800px;
+}
+.perfil
+{
+	position: relative;
+	margin-top: -4px;
+	cursor: pointer;
+}
+
+.menu-perfil
+{
+	position: static;
+	margin-left: -150px;
+	margin-top: -90px;
+
+}
+.carrito
+{
+	position: relative;
+	margin-left: 5px;
+	cursor: pointer;
+}
+
+.menu-login
+{
+	float: left;
+
+}
+
+.amplada
+{
+	min-width: 1500px;
+}
+.sign
+{
+	position: relative;
+	cursor: pointer;
+}
+
+.login
+{
+	position: relative;
+	float: left;
+	margin-left: -70px;
+	margin-top: -33px;
+	cursor: pointer;
+}
+
+.opcions-login
+{
+	position: relative;
+	margin-left: -80px;
+}
+
+#admin {
+	position: relative;
+	float: left;
+	margin-top: -33px;
+	margin-left: -150px;
+	cursor: pointer;
+}
+ .boto-menu
+ {
+ 	position: relative;
+ 	float: left;
+ 	margin-left: -515px;
+ 	margin-top: 90px;
+ 	cursor: pointer;
+ }
+
+ .buit-portada
+ {
+ 	height: 600px;
+ }
+
+
+ body{
+ 	margin: 0px !important;
+ 	margin-top:-30px !important;
+ }
+ .divisio{
+	width:20%; 
+	float:left;
+}
+
+footer{
+	width:100%;
+	background:lightblue;
+	height:150px;
+}
+#twitter{
+	width:20px;
+	height:20px;
+}
+#face{
+	width:17px;
+	height:20px;
+}
+#insta{
+	width:20px;
+	height:19px;
+}
+
+.fotos
+{
+	position: relative;
+	float: left;
+	margin-left: 40px;
+	width: 150px;
+}
+.poster
+{
+	position: relative;
+	float: left;
+	margin-top: -500px;
+	margin-left: 200px;
+}
+
+.samarreta
+{
+	position: relative;
+	float: left;
+	margin-top: -270px;
+	margin-left: 200px;
+
+}
+
+.taca
+{
+	position: relative;
+	float: left;
+	margin-top: -30px;
+	margin-left: 200px;
+}
+
+#portada{
+	min-width: 70%;
+	width:100%;
+}
+#menuS{
+	width: 10%;
+}
+#vistaproductes{
+	width: 80%;
+}
